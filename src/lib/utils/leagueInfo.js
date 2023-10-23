@@ -29,7 +29,7 @@ export const managers = [
       "name": "Oliver 'Rid' Ridout",
       "location": "London", // (optional)
       "bio": "Lorem ipsum...",
-//      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      // "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "buf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
