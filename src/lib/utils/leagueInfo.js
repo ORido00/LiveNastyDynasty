@@ -7,12 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Founded in the depths of a 2021 Covid lockdown, Live Nasty Dy Nasty is an NFL Fantasy Football dynasty league with a British twist.</p>
+  <p>Many players had been playing redraft for years and had grown a love for the game. This led to co-commissioners Rid and Miles decided it was time to take the plunge into full NFL nerd-dom and commit to a dynasty league. The bat signal went out and 9 of the 12 places were filled immediately from their previous league. The final three spots were quickly filled by Mikey, Rhys and, the league's only American, Brad (USA, USA, USA). It's quite a group they were joining, but it says a lot about them that they fit right in.</p>
+  <p>The research was done, the votes were in and the league took shape. A true democracy, this would be a full PPR Superflex league, with three IDP spots per team for DL, LB and DB. Oh, and kickers were kept in for some reason.</p>
+  <p>The start-up draft happened over two glorious evenings spent over zoom calls. We saw different tactics and different approaches, but it was clear everyone had put in the work and were fully committed to the league. The competition had started and long may it continue.</p>
+  <p>Expect a lot of shit talk, shit teams and a few shit managers. Welcome to Live Nasty, Dy Nasty.</p>
 `;
 
 /*   STEP 3   */
