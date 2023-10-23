@@ -40,7 +40,7 @@ export const managers = [
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
       "philosophy": "Trust the process",
       "tradingScale": 6, // 1 - 10
-      "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+      "preferredContact": "WhatsApp", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
       "managerID": "637012540118888448",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
@@ -60,24 +60,24 @@ export const managers = [
       "tradingScale": 8, // 1 - 10
       "preferredContact": "WhatsApp", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-    // {
-    //   "managerID": "659500684906946560",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    //   "name": "Alex 'Nips' Costigan",
-    //   "location": "London", // (optional)
-    //   "bio": "Lorem ipsum...",
-    //   "favoriteTeam": "nyg", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
-    //   "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-    //   // "rival": {
-    //   //   name: "Rid", // Can be anything (usually your rival's name)
-    //   //   link: 0, // manager array number within this array, or null to link back to all managers page
-    //   // },
-    //   "favoritePlayer": 6794, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-    //   "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
-    //   "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-    //   "philosophy": "No taxi squad",
-    //   "tradingScale": 7, // 1 - 10
-    //   "preferredContact": "WhatsApp", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    // },
+    {
+      "managerID": "659500684906946560",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Alex 'Nips' Costigan",
+      "location": "London", // (optional)
+      "bio": "Lorem ipsum...",
+      "favoriteTeam": "nyg", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
+      // "rival": {
+      //   name: "Rid", // Can be anything (usually your rival's name)
+      //   link: 0, // manager array number within this array, or null to link back to all managers page
+      // },
+      "favoritePlayer": 6794, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+      "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
+      "philosophy": "No taxi squad",
+      "tradingScale": 7, // 1 - 10
+      "preferredContact": "WhatsApp", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+    },
     // {
     //   "managerID": "659500691194220544",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     //   "name": "Corey 'Cork' Goodes",
