@@ -126,6 +126,8 @@
     
     <p><strong>1.01</strong> Live Nasty, Dy Nasty is a dynasty league of 12 Teams made up of 3 Divisions of 4 Teams each</p>
     
+    <p><strong>1.02</strong> The teams assigned to each division will be done so randomly at the start of every season</p>
+        <p><strong>1.02.01</strong> The teams agreed from maining contant divisions from the start of season 2</p>
 
     
     <p class="underscore">Starters</p>
