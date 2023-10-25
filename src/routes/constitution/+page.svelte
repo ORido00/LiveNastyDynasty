@@ -271,4 +271,24 @@
 
     <p><strong>7.07</strong> Every player has the right to make any trade they want, as such there will be no votes to veto any trades made. The co-commissioners may step in to veto a trade only in severe and obvious instances of collusion or tanking to preserve the integrity of the league</p>
 
+    <h2 class="sectionHeading" bind:this={eight}>Section 8: Waivers and Free Agents</h2>
+    
+    <p><strong>8.01</strong> Waiver will be claimed using FAAB bidding</p>
+    
+    <p><strong>8.02</strong> The bid of the highest value will claim the waiver</p>
+
+    <p><strong>8.03</strong> If two or more teams bid the same amount, the tiebreaker comes down to waiver wire priority, which acts as rolling waivers which can be found in the league's standings</p>
+
+    <p><strong>8.04</strong> If you successfully claim a player through waivers at any time, you go to the end of the list, while everybody else moves up by one. If you make any free agent acquisitions, it will not affect this priority order</p>
+
+    <p><strong>8.05</strong> Each player will get a FAAB budget of 100 per season</p>
+
+    <p><strong>8.06</strong> FAAB budget is decreased only for successful bids</p>
+
+    <p><strong>8.07</strong> Waivers clear on a Tuesday night/Wednesday morning each week after the games</p>
+
+    <p><strong>8.08</strong> A recently dropped player is on the waiver wire for 2 days after being dropped before becoming a free agent</p>
+
+    <p><strong>8.09</strong> Waiver and free agent claims will be locked between the end of the dynasty season and the supplementary draft</p>
+
 </div>
