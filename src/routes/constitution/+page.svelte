@@ -255,6 +255,20 @@
 
     <p><strong>6.04</strong> The supplementary draft will not be a snake draft. The draft order will be maintained between rounds</p>
 
+    <h2 class="sectionHeading" bind:this={seven}>Section 7: Trading</h2>
+    
+    <p><strong>7.01</strong> Trades can be made between teams at any point in the year. There will be no trade deadline</p>
+    
+    <p><strong>7.02</strong> Trades can be made using any combinations of either players or future draft picks</p>
 
+    <p><strong>7.03</strong> Future draft picks can only be traded for the subsequent 3 drafts</p>
+
+    <p><strong>7.04</strong> Trades can be made during the drafts</p>
+
+    <p><strong>7.05</strong> Start Up Draft picks can be traded once the draft order has been set</p>
+
+    <p><strong>7.06</strong> Trading can commence once all participants have joined the league and the start up draft order has been set</p>
+
+    <p><strong>7.07</strong> Every player has the right to make any trade they want, as such there will be no votes to veto any trades made. The co-commissioners may step in to veto a trade only in severe and obvious instances of collusion or tanking to preserve the integrity of the league</p>
 
 </div>
