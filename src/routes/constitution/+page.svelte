@@ -126,11 +126,16 @@
     
     <p><strong>1.01</strong> Live Nasty, Dy Nasty is a dynasty league of 12 Teams made up of 3 Divisions of 4 Teams each</p>
     
-    <p><strong>1.02</strong> The teams assigned to each division will be done so randomly at the start of every season</p>
-    <p>    <strong>1.02.01</strong> The teams agreed from maining contant divisions from the start of season 2</p>
+    <p><strong>1.02</strong> The teams assigned to each division will be done so randomly at the start of every season
+        <strong>1.02.01</strong> The teams agreed from maining contant divisions from the start of season 2</p>
 
+    <h2 class="sectionHeading" bind:this={two}>Section 2. Roster and Team Composition</h2>
     
-    <p class="underscore">Starters</p>
+    <p><strong>2.01</strong> Each roster contains a maximum of 30 players, with an additional 5 Taxi Squad spots available</p>
+    
+    <p><strong>2.02</strong> There will be 3 Injured Reserved slots per team to store players that have been designated to the IR or Covid list by their NFL team</p>
+    
+    <p><strong>2.03</strong> Starting lineup structure is as follows:</p>
     <ul>
         <li>QB</li>
         <li>RB</li>
