@@ -122,14 +122,14 @@
     
     <hr />
     
-    <h2 class="sectionHeading" bind:this={one}>Section 1. League Size and Structure</h2>
+    <h2 class="sectionHeading" bind:this={one}>Section 1: League Size and Structure</h2>
     
     <p><strong>1.01</strong> Live Nasty, Dy Nasty is a dynasty league of 12 Teams made up of 3 Divisions of 4 Teams each</p>
     
     <p><strong>1.02</strong> The teams assigned to each division will be done so randomly at the start of every season<br />
     <p class="subBlock"><strong>1.02.01</strong> The teams agreed from maining contant divisions from the start of season 2</p></p>
 
-    <h2 class="sectionHeading" bind:this={two}>Section 2. Roster and Team Composition</h2>
+    <h2 class="sectionHeading" bind:this={two}>Section 2: Roster and Team Composition</h2>
     
     <p><strong>2.01</strong> Each roster contains a maximum of 30 players, with an additional 5 Taxi Squad spots available</p>
     
@@ -148,7 +148,20 @@
         <li>1 x LB</li>
         <li>1 x DB</li>
     </ul>
+
+    <h2 class="sectionHeading" bind:this={three}>Section 3: Taxi Squads</h2>
     
+    <p><strong>3.01</strong> here are 5 Taxi Squad slots for each team</p>
+    
+    <p><strong>3.02</strong> Only Rookies can be added to the Taxi Squad</p>
+
+    <p><strong>3.03</strong> Players can be moved into the taxi squad until the regular season starts. Once the deadline passes, players can no longer be moved into the taxi squad.</p>
+
+    <p><strong>3.04</strong> Players can be kept on a Taxi Squad for 2 Seasons. After this time they must be either activated to your main roster or dropped.</p>
+
+    <p><strong>3.05</strong> Taxi squad size is increased to 10 between season. It is reduced back to 5 before the first NFL game of the season kicks off</p>
+
+
     <p>18 Bench (Expanded by 5 between the keague draft and start of regular season)</p>
 
     <p>1 IR Spots (Player must be labeled as IR, Out, or Covid in the Sleeper App)</p>
