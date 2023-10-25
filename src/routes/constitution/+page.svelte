@@ -126,7 +126,7 @@
     
     <p><strong>1.01</strong> Live Nasty, Dy Nasty is a dynasty league of 12 Teams made up of 3 Divisions of 4 Teams each</p>
     
-    <p><strong>1.02</strong> The teams assigned to each division will be done so randomly at the start of every season
+    <p><strong>1.02</strong> The teams assigned to each division will be done so randomly at the start of every season<br />
         <strong>1.02.01</strong> The teams agreed from maining contant divisions from the start of season 2</p>
 
     <h2 class="sectionHeading" bind:this={two}>Section 2. Roster and Team Composition</h2>
@@ -137,16 +137,16 @@
     
     <p><strong>2.03</strong> Starting lineup structure is as follows:</p>
     <ul>
-        <li>QB</li>
-        <li>RB</li>
-        <li>RB</li>
-        <li>WR</li>
-        <li>WR</li>
-        <li>TE</li>
-        <li>FLEX (RB/WR/TE)</li>
-        <li>FLEX (RB/WR)</li>
-        <li>D/ST</li>
-        <li>K</li>
+        <li>1 x QB</li>
+        <li>2 x RB</li>
+        <li>2 x WR</li>
+        <li>1 x TE</li>
+        <li>1 x Flex (RB/WR/TE)</li>
+        <li>1 x Superflex (QB/RB/WR/TE)</li>
+        <li>1 x Kicker</li>
+        <li>1 x DL (RB/WR)</li>
+        <li>1 x LB</li>
+        <li>1 x DB</li>
     </ul>
     
     <p>18 Bench (Expanded by 5 between the keague draft and start of regular season)</p>
