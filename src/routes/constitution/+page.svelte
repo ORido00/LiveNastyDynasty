@@ -255,60 +255,6 @@
 
     <p><strong>6.04</strong> The supplementary draft will not be a snake draft. The draft order will be maintained between rounds</p>
 
-    <h2 class="sectionHeading" bind:this={seven}>Section 7: Trading</h2>
-    
-    <p><strong>7.01</strong> Trades can be made between teams at any point in the year. There will be no trade deadline</p>
-    
-    <p><strong>7.02</strong> Trades can be made using any combinations of either players or future draft picks</p>
 
-    <p><strong>7.03</strong> Future draft picks can only be traded for the subsequent 3 drafts</p>
-
-    <p><strong>7.04</strong> Trades can be made during the drafts</p>
-
-    <p><strong>7.05</strong> Start Up Draft picks can be traded once the draft order has been set</p>
-
-    <p><strong>7.06</strong> Trading can commence once all participants have joined the league and the start up draft order has been set</p>
-
-    <p><strong>7.07</strong> Every player has the right to make any trade they want, as such there will be no votes to veto any trades made. The co-commissioners may step in to veto a trade only in severe and obvious instances of collusion or tanking to preserve the integrity of the league</p>
-
-    <h2 class="sectionHeading" bind:this={eight}>Section 8: Waivers and Free Agents</h2>
-    
-    <p><strong>8.01</strong> Waiver will be claimed using FAAB bidding</p>
-    
-    <p><strong>8.02</strong> The bid of the highest value will claim the waiver</p>
-
-    <p><strong>8.03</strong> If two or more teams bid the same amount, the tiebreaker comes down to waiver wire priority, which acts as rolling waivers which can be found in the league's standings</p>
-
-    <p><strong>8.04</strong> If you successfully claim a player through waivers at any time, you go to the end of the list, while everybody else moves up by one. If you make any free agent acquisitions, it will not affect this priority order.</p>
-
-    <p><strong>8.05</strong> Each player will get a FAAB budget of 100 per season</p>
-
-    <p><strong>8.06</strong> FAAB budget is decreased only for successful bids</p>
-
-    <p><strong>8.07</strong> Waivers clear on a Tuesday night/Wednesday morning each week after the games</p>
-
-    <p><strong>8.08</strong> A recently dropped player is on the waiver wire for 2 days after being dropped before becoming a free agent</p>
-
-    <p><strong>8.09</strong> Waiver and free agent claims will be locked between the end of the dynasty season and the supplementary draft</p>
-
-    <h2 class="sectionHeading" bind:this={nine}>Section 9: Season Schedule</h2>
-    
-    <p><strong>9.01</strong> The season will be made up of a 13 week regular season and a 3 week postseason</p>
-    
-    <p><strong>9.02</strong> Each team will play every other team once and then 2 matches against divisional teams</p>
-
-    <p><strong>9.03</strong> The top two teams from each division make the play-offs and all other teams go into the consolation bracket</p>
-
-    <p><strong>9.04</strong> The 1st and 2nd seeds get a bye week for the first week of the play-offs</p>
-
-    <p><strong>9.05</strong> In the first play-off week, the 3rd seed will play the 6th seed. In the second play-off week the 1st seed will play the lowest seeded team remaining</p>
-
-    <h2 class="sectionHeading" bind:this={ten}>Section 10: Prize Pool and Punishments</h2>
-    
-    <p><strong>10.01</strong> The annual buy-in for the league is £20 each which goes into the total yearly prize pool of £240</p>
-    
-    <p><strong>10.02</strong> The prize pool is split up as follows: winners gets £160, Runner up gets £40, Losing semi-finalist get £20 each</p>
-
-    <p><strong>10.03</strong> The player that finishes in last place will receive a punishment, the nature of which is TBD</p>
 
 </div>
