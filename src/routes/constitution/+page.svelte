@@ -295,4 +295,24 @@
 
     <p><strong>8.09</strong> Waiver and free agent claims will be locked between the end of the dynasty season and the supplementary draft</p>
 
+    <h2 class="sectionHeading" bind:this={nine}>Section 9: Season Schedule</h2>
+    
+    <p><strong>9.01</strong> The season will be made up of a 13 week regular season and a 3 week postseason</p>
+    
+    <p><strong>9.02</strong> Each team will play every other team once and then 2 matches against divisional teams</p>
+
+    <p><strong>9.03</strong> The top two teams from each division make the play-offs and all other teams go into the consolation bracket</p>
+
+    <p><strong>9.04</strong> The 1st and 2nd seeds get a bye week for the first week of the play-offs</p>
+
+    <p><strong>9.05</strong> In the first play-off week, the 3rd seed will play the 6th seed. In the second play-off week the 1st seed will play the lowest seeded team remaining</p>
+
+    <h2 class="sectionHeading" bind:this={ten}>Section 10: Prize Pool and Punishments</h2>
+    
+    <p><strong>10.01</strong> The annual buy-in for the league is £20 each which goes into the total yearly prize pool of £240</p>
+    
+    <p><strong>10.02</strong> The prize pool is split up as follows: winners gets £160, Runner up gets £40, Losing semi-finalist get £20 each</p>
+
+    <p><strong>10.03</strong> The player that finishes in last place will receive a punishment, the nature of which is TBD</p>
+
 </div>
