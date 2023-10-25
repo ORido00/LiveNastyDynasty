@@ -124,7 +124,7 @@
     
     <h2 class="sectionHeading" bind:this={one}>Section 1. League Size and Structure</h2>
     
-    <h3 class="subSectionHeading" bind:this={oneOne}>1.01 </h3>    <p>Live Nasty, Dy Nasty is a dynasty league of 12 Teams made up of 3 Divisions of 4 Teams each</p>
+    <p><strong>1.01</strong> Live Nasty, Dy Nasty is a dynasty league of 12 Teams made up of 3 Divisions of 4 Teams each</p>
     
 
     
