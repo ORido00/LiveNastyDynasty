@@ -152,7 +152,7 @@
 
     <h2 class="sectionHeading" bind:this={three}>Section 3: Taxi Squads</h2>
     
-    <p><strong>3.01</strong> here are 5 Taxi Squad slots for each team</p>
+    <p><strong>3.01</strong> There are 5 Taxi Squad slots for each team</p>
     
     <p><strong>3.02</strong> Only Rookies can be added to the Taxi Squad</p>
 
@@ -161,6 +161,99 @@
     <p><strong>3.04</strong> Players can be kept on a Taxi Squad for 2 Seasons. After this time they must be either activated to your main roster or dropped.</p>
 
     <p><strong>3.05</strong> Taxi squad size is increased to 10 between season. It is reduced back to 5 before the first NFL game of the season kicks off</p>
+
+<h2 class="sectionHeading" bind:this={four}>Section 4: Scoring</h2>
+    
+    <p><strong>4.01</strong> The scoring format will be default PPR options</p>
+    
+    <p><strong>4.02</strong> Passing scoring:</p>
+    <ul>
+        <li>Passing yards: 1 point every 25 yards</li>
+        <li>Passing TD: 4 points</li>
+        <li>2-point conversion: 2 points</li>
+        <li>Interception: -1 point</li>
+    </ul>
+
+    <p><strong>4.03</strong> Rushing scoring:</p>
+    <ul>
+        <li>Rushing yards: 1 point every 10 yards</li>
+        <li>Rushing TD: 6 points</li>
+        <li>2-point conversion: 2 points</li>
+    </ul>
+
+    <p><strong>4.04</strong> Receiving scoring:</p>
+    <ul>
+        <li>Reception: 1 point</li>
+        <li>Receiving yards: 1 point every 10 yards</li>
+        <li>Receiving TD: 6 points</li>
+        <li>2-point conversion: 2 points</li>
+    </ul>
+
+    <p><strong>4.05</strong> Kicking scoring:</p>
+    <ul>
+        <li>FG made (0-39 yards): 3 points</li>
+        <li>FG made (40-49 yards): 4 points</li>
+        <li>FG made (50+ yards): 5 points</li>
+        <li>PAT made: 1 point</li>
+        <li>FG missed: -1 point</li>
+        <li>PAT missed: -1 point</li>
+    </ul>
+
+    <p><strong>4.06</strong> Special teams scoring:</p>
+    <ul>
+        <li>Special teams player TD: 6 points</li>
+        <li>Special teams player forced fumble: 1 point</li>
+        <li>Special teams player fumble recovery: 1 point</li>
+    </ul>
+
+    <p><strong>4.07</strong> Misc scoring:</p>
+    <ul>
+        <li>Fumble: -1 point</li>
+        <li>Fumble lost: -2 points</li>
+        <li>Fumble recovery TD: 6 points</li>
+    </ul>
+
+    <p><strong>4.08</strong> IDP scoring:</p>
+    <ul>
+        <li>IDP TD: 6 points</li>
+        <li>Sack: 6 points</li>
+        <li>Hit on QB: 1 point</li>
+        <li>Tackle for loss: 2 points</li>
+        <li>Blocked punt, PAT or FG: 3 points</li>
+        <li>Interception: 6 points</li>
+        <li>Fumble recovery: 3 points</li>
+        <li>Forced fumble: 3 points</li>
+        <li>Safety: 3 points</li>
+        <li>Assisted tackle: 1 point</li>
+        <li>SSolo tackle: 2 points</li>
+        <li>Pass defended: 3 points</li>
+    </ul>
+
+    <h2 class="sectionHeading" bind:this={five}>Section 5: Start-up Draft</h2>
+    
+    <p><strong>5.01</strong> The start up draft will be a 30 round snake draft</p>
+    
+    <p><strong>5.02</strong> The draft will occur over 3 separate sessions of 10 rounds each (dates and times TBD)</p>
+
+    <p><strong>5.03</strong> The draft will take place between the start of NFL free agency and the NFL Draft (between 17th March - 29th April)</p>
+
+    <p><strong>5.04</strong> The draft order will be generated randomly in advance of the draft</p>
+
+    <p><strong>5.05</strong> The first season Rookie Draft will be a separate, 3-round event after the NFL draft. This will also be a snake draft and the draft order will be the reverse of the initial start-up draft order</p>
+
+    <h2 class="sectionHeading" bind:this={six}>Section 6: Yearly Supplementary Draft</h2>
+    
+    <p><strong>6.01</strong> Before each season there will be a supplementary draft for all new Rookies and Free Agents</p>
+    
+    <p><strong>6.02</strong> The Supplementary Draft will contain 3 rounds</p>
+
+    <p class="subBlock"><strong>6.02.01</strong> It was agreed this would be extended to 5 rounds due to the impact of IDP picks</p>
+
+    <p><strong>6.03</strong> Draft order for non-playoff teams is decided by total seasonal points for full end of season roster (including bench spots) and then play off elimination round and reverse regular season standings order for playoff teams.</p>
+
+    <p class="subBlock"><strong>6.03.01</strong> The draft order for non-playoff teams has been changed to be based on max potential points for.</p>
+
+    <p><strong>6.04</strong> The supplementary draft will not be a snake draft. The draft order will be maintained between rounds</p>
 
 
 
