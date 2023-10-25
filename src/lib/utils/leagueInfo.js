@@ -98,7 +98,7 @@ export const managers = [
     },
     {
       "managerID": "659511010658447360",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Dan 'Widey' Apostal",
+      "name": "Dan 'Widey' Apostol",
       "location": "Hertfordshire", // (optional)
       "bio": "Lorem ipsum...",
       "favoriteTeam": "min", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
