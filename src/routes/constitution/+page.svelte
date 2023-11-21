@@ -297,7 +297,7 @@
 
     <h2 class="sectionHeading" bind:this={nine}>Section 9: Season Schedule</h2>
     
-    <p><strong>9.01</strong> The season will be made up of a 13 week regular season and a 3 week postseason</p>
+    <p><strong>9.01</strong> The season will be made up of a 14 week regular season and a 3 week postseason</p>
     
     <p><strong>9.02</strong> Each team will play every other team once and then 2 matches against divisional teams</p>
 
